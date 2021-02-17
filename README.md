@@ -1,2 +1,2 @@
 # LinuxShell
-All Linux shell projects made this week
+All Linux shell Labs done this week
